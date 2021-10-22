@@ -2,9 +2,9 @@
 
 ## Description
 
-The 6th project of 10 from a Udemy course called 10 Mega Responsive Websites.
+This project highlights classic cars with a unique menu interaction that rotates the page to display the navigation. The two galleries stand out as one has a hover effect that plays and pauses the video and the other gallery is placed on a 3D shelf. With those galleries, I learned about video mute and loop, and that perspective doesn't work the same on all browsers. For the full 3D effect in the Image Gallery open in Safari.
 
-[Link to deployed Application coming soon]()
+[Link to deployed Website](https://terahje.github.io/classic-cars/)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The 6th project of 10 from a Udemy course called 10 Mega Responsive Websites.
 
 ## Usage
 
-![]()
+![](/images/screencast.gif)
 
 ## Credits
 
